@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "print all files in the current dir with a long list fromate" > ls_cwd_content
